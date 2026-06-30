@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5b0197/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5b0197/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 玉籙資度午朝儀
+  date: '2015-08-29 00:12:28.773188'
+  source:
+    repository: kanripo
+    path: KR5b0197
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5b0197_000-ZTDZ.yaml, hash: 'sha256:fb1c89c46424ab3f6a27d94cf40e2f1437d20bb9d6631938658b35e1d32bb4a9'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5b0197_000-ZTDZ.markers.yaml, hash: 'sha256:be31312dc56923f9b2deac287e274d4c84c2fac86201530449525b7f47f0bdad'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5b0197_SJB_000-090144a
+    span:
+    - body
+    - 0
+    - 1588
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:2ae06dbf65b76bb8037d379a2f7a0c0184698729f41b9bf9f588e60c4655cd29
